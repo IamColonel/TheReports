@@ -24,9 +24,9 @@ Config.AdminList = {
 
 -- To set your Discord Webhook URL go to server.lua, line 13
 
-Config.BotName = 'NewLife RP' -- Write the desired bot name
+Config.BotName = 'ServerName' -- Write the desired bot name
 
-Config.ServerName = 'NewLife RP' -- Write your server's name
+Config.ServerName = 'ServerName' -- Write your server's name
 
 Config.IconURL = '' -- Insert your desired image link
 
