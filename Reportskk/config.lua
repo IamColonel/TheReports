@@ -16,8 +16,8 @@ Config.ESX = false -- Set this to true if you use ESX
 
 -- Types of identifiers: steam: | license: | xbl: | live: | discord: | fivem: | ip:
 Config.AdminList = {
-	'license:34ac2ba935c56fde315159400261905bb99223e2', -- Example, change this
-	-- 'discord:370910283901283929' -- Example, change this
+	-- 'license:abcedes', -- Example, change this
+	-- 'discord:abced' -- Example, change this
 }
 
 -------------------------- DISCORD LOGS
